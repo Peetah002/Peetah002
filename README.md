@@ -13,8 +13,7 @@ Here's some of my info that could help you understand who I am!😊
 👀 Profession: Worker & Web Developer<br>
 👨‍💻 Languages: C++, Java, Javascript, PHP, Nextjs
 ✨ Other Hobbies: Gaming, Reading, Guitar<br>
-🗣️ Able to Speak: Italian | English
-</p>
-<br>
+🗣️ Able to Speak: Italian | English<br>
 
-<h3>🌐 Currently Learning: Japanese</h3>
+
+🌐 Currently Learning: Japanese</p>
