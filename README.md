@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there👋<br>
+I'm Pietro and this is my profile<br>
+Here's some of my info that could help you understand who I am!<br>
 
-<!--
-**Peetah002/Peetah002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 Age: 20 Years Old<br>
+🌍 Nationality: Italy<br>
+👀 Profession: Worker & Web Developer<br>
+👨‍💻 Languages: C++, Java, Javascript, PHP, Nextjs
+✨ Other Hobbies: Gaming, Reading, Guitar<br>
+🗣️ Able to Speak: Italian | English<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Currently Learning: Japanese
