@@ -15,7 +15,4 @@ Here's some of my info that could help you understand who I am!😊
 ✨ Other Hobbies: Gaming, Reading, Guitar<br>
 🗣️ Able to Speak: Italian | English<br>
 
-
-🌐 Currently Learning: Japanese</p>
-
 Here's my portfolio: [🌐 pietro-martino.it](https://pietro-martino.it)
