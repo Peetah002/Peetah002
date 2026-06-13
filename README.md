@@ -87,18 +87,6 @@ I'm a **20-year-old Italian Full-stack Developer** who loves crafting digital ex
 
 ---
 
-## 🎮 Beyond the Code
-
-<div align="center">
-
-| 🎮 Gaming | 📚 Reading | 🎸 Guitar |
-|:---------:|:----------:|:---------:|
-| Strategy & RPGs | Tech, Sci-Fi & more | Rock & Blues |
-
-</div>
-
----
-
 <div align="center">
 
 *" The best code is the code that doesn't need to be explained. "*
